@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Checkout
+comment1.params=count\ price
+comment1.target=void\ add(int,\ int)
+comment2.params=
+comment2.target=int\ total()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CheckoutSteps
+comment1.params=
+comment1.target=void\ beforeCallingScenario()
+comment2.params=scenario
+comment2.target=void\ afterRunningScenario(cucumber.api.Scenario)
+comment3.params=itemName\ price
+comment3.target=void\ thePriceOfAIsC(java.lang.String,\ int)
+comment4.params=itemCount\ itemName
+comment4.target=void\ iCheckout(int,\ java.lang.String)
+comment5.params=total
+comment5.target=void\ theTotalPriceShouldBeC(int)
+numComments=6
